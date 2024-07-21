@@ -6,3 +6,7 @@ from src.string_methods.string_methods import *
 from src.string_methods.string_slicing import *
 
 from src.math_functions.math_functions import *
+
+# ---- input related are commented
+# from src.if_statements.if_statements import *
+# from src.user_input.user_input import *
