@@ -1,1 +1,2 @@
-print(1 + 1)
+from src.variables.variables import *
+from src.variables.multiple_assignment import *
