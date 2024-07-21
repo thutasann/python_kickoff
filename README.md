@@ -1,2 +1,9 @@
-# python_kickoff
-python kick off
+# Python Kick off
+
+
+## Scripts
+
+
+```bash
+python3 main.py
+```
