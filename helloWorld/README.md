@@ -2,7 +2,13 @@
 
 In this section, python fundamentals will be included
 
-## Usaged Packages
+## Contents
+
+- python fundamentals
+- network utils
+- system utils
+
+## Used Packages
 
 - requests
 - psutil
