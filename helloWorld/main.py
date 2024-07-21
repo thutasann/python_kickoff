@@ -7,6 +7,10 @@ from src.string_methods.string_slicing import *
 
 from src.math_functions.math_functions import *
 
+from src.loop_operator.while_operator import *
+
+
 # ---- input related are commented
 # from src.if_statements.if_statements import *
+# from src.if_statements.logical_operator import *
 # from src.user_input.user_input import *
