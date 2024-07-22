@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-| Topic      | Source                  | Type                |
-| ---------- | ----------------------- | ------------------- |
-| helloWorld | [Source](./helloWorld/) | Python Fundamentals |
+| Topic       | Source                  | Type                |
+| ----------- | ----------------------- | ------------------- |
+| hello_world | [Source](./helloWorld/) | Python Fundamentals |
 
 ## Scripts
 
