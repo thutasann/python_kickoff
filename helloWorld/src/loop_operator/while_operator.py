@@ -2,6 +2,8 @@ print("---------------- WHILE OPERATOR ---------------- ")
 
 # while loop = a statement that will execute it's block of code,
 # as long as it's condition remains true
+# while loop = unlimited
+# for loop = limited
 
 name = None
 
