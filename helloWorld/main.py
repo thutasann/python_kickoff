@@ -8,7 +8,6 @@ from src.string_methods.string_slicing import *
 from src.math_functions.math_functions import *
 
 from src.loop_operator.for_operator import *
-from src.loop_operator.nested_loop import *
 
 
 # ---- input related are commented
@@ -16,3 +15,4 @@ from src.loop_operator.nested_loop import *
 # from src.if_statements.logical_operator import *
 # from src.user_input.user_input import *
 # from src.loop_operator.while_operator import *
+# from src.loop_operator.nested_loop import *
