@@ -9,6 +9,8 @@ from src.math_functions.math_functions import *
 
 from src.loop_operator.for_operator import *
 
+from src.tuple.tuple_sample import *
+
 
 # ---- input related are commented
 # from src.if_statements.if_statements import *
